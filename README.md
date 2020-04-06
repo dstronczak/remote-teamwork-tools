@@ -40,11 +40,29 @@ Pretty fancy and complicated tool for remote retrospectives. It definitely has a
 
 This "online collaborative whiteboarding platform" is much more than a retro tool. Anyway, fancy retro boards is one of the possible use cases of this it. 
 
+## Planning / estimating
+
+#### 💜 [PlanITPoker](https://www.planitpoker.com/)  (free)
+
+Nice and simple tool for planning poker sessions. The host needs to create an account, but the rest of participants does not.
+
+#### [ScrumPokerOnline](https://scrumpoker.online/) (free)
+
+Another free tool for planning poker. Here you don't even have to create an account. Enable integrations with github, gitlab and JIRA to load stories / issues. Also, it's an open soruce php app - if you want you can host it yourself.
+
+#### [PlanningPoker](https://www.planningpoker.com/) (apid)
+
+A paid tool for planning poker. Haven't used is myself so I'm not sure if it's worth the money.
+
 ## Brainstorming / design
 
-TBD
+#### [Miro](https://miro.com/) (paid)
 
+Great tool for real time drawing and board creation. Nice to use and has ton of shapes and templates.
+
+to add:
 https://coggle.it/
+https://awwapp.com/b/u1djkabne/#
 
 ## Remote Pair programming
 
