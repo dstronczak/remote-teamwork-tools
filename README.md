@@ -50,7 +50,7 @@ Nice and simple tool for planning poker sessions. The host needs to create an ac
 
 Another free tool for planning poker. Here you don't even have to create an account. Enable integrations with github, gitlab and JIRA to load stories / issues. Also, it's an open soruce php app - if you want you can host it yourself.
 
-#### [PlanningPoker](https://www.planningpoker.com/) (apid)
+#### [PlanningPoker](https://www.planningpoker.com/) (paid)
 
 A paid tool for planning poker. Haven't used is myself so I'm not sure if it's worth the money.
 
