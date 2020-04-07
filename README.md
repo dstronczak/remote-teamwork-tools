@@ -66,6 +66,46 @@ https://awwapp.com/b/u1djkabne/#
 
 ## Remote Pair programming
 
+### Editor / IDE sharing
+
+#### [VSCode](https://code.visualstudio.com/) + [LiveShare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) (free)
+
+Visual Studio Code is a great text editor many people use daily as their main IDE. It's also a great tool for remote pair programming, there are three plugins that can make VSCode the only tool you need to code together remotely. These are:
+
+[LiveShare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - main plugin you will need, it enables to work together remotely using the same editor workspace, with live file editing, etc.
+
+[LiveAudio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio) - enables you to add an audio call to your remote collaboration session, without a need to use an extra app for that.
+
+[LiveChat](https://marketplace.visualstudio.com/items?itemName=karigari.chat) - enables you to add text messaging between remote collaboration session participantas, instead of using external comminicator.
+
+#### Alternative editors for live collaboration
+
+[Atom](https://atom.io/) with [Teletype](https://teletype.atom.io/) (free) - If you prefer Atom more than VSCode, there is a beta version of Atom plugin called Teletype. 
+
+[Brackets](http://brackets.io/) (free) - a modern, open source code editor founded by Adobe that offers collaborative features. You simply need to open your project folder, press the sync icon on the right toolbar, and enter the same room ID. 
+
+[SublimeText](https://www.sublimetext.com/) + [RemoteColab](https://teamremote.github.io/remote-sublime/) - if you prefer Sublime Text you will also find a plugin for remote collaboration - RemoteColab.
+
+[Cloud9](https://aws.amazon.com/cloud9/) (paid) - a cloud IDE from Amazon.  Remote pair programming is available in Cloud9, allowing developers to share their preview, the running application, and even their entire program development, and program with their collaborators in real time. Collaborators will be able to see each other’s cursors as they type, run the app, share the Terminal(s), and talk in a group chat.
+
+[CodeAnywhere](https://codeanywhere.com/) (paid) - a cloud IDE, which also offer live coding and collaboration capability.  
+
+[CodeShare](https://codeshare.io/) (free) - an easy and lightweight online code editor, where developers can share their code in real time with no signing up required.
+
+[CodePen](https://codepen.io/) (fremium) - one of the most popular social coding programs among front-end designers and developers working either for a web design agency or independently. CodePen allows those with a Pro subscription to access the “Collab Mode,” where multiple users can edit and modify a single Pen at the same time.
+
+### Screen sharing + remote control
+
+#### [Tuple](https://tuple.app/) (paid)
+
+Tuple is an app dedicated to one purpose - remote pair programming. It is supposed to be a successor of Screenhero which was bought and shut down by Slack.
+
+#### Alternative screen sharing / remote control apps
+[Zoom](https://zoom.us/) (fremium) - video conferencing tool, which enables screen sharing, screen annotation and control sharing.
+[TeamViever](https://www.teamviewer.com/) (fremium) - screen sharing / remote desktop session tool which enables you to control others' screen.
+[Slack](https://slack.com/) (fremium) - team chat tool which enables for video calls and screen sharing with remote screen control.
+
+
 ## Video conferencing
 
 
