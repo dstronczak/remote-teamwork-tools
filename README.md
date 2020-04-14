@@ -5,9 +5,9 @@ A list of tools which I found useful for the purpose of cooperating with your te
 #### Contents
 
 1. [Retrospectives](#retrospectives)
-2. [Planing and estimating](#planningandestimating)
-3. [Brainstorming and design](#brainstorminganddesign)
-4. [Remote Pair programming](#remotepairprogramming)
+2. [Planing and estimating](#planning-and-estimating)
+3. [Brainstorming and design](#brainstorming-and-design)
+4. [Remote Pair programming](#remote-pair-programming)
 
 
 ## Retrospectives
