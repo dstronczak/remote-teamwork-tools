@@ -1,10 +1,14 @@
-# Remote teamwork tools list
+# Remote teamwork tools for software teams
 
-A list of tool I find useful for the purpose of cooperating with your team members remotely.
+A list of tools which I found useful for the purpose of cooperating with your team members remotely.
 
 #### Contents
 
-...
+1. [Retrospectives](#retrospectives)
+2. [Planing and estimating](#planningandestimating)
+3. [Brainstorming and design](#brainstorminganddesign)
+4. [Remote Pair programming](#remotepairprogramming)
+
 
 ## Retrospectives
 
@@ -40,7 +44,7 @@ Pretty fancy and complicated tool for remote retrospectives. It definitely has a
 
 This "online collaborative whiteboarding platform" is much more than a retro tool. Anyway, fancy retro boards is one of the possible use cases of this it. 
 
-## Planning / estimating
+## Planning and estimating
 
 #### 💜 [PlanITPoker](https://www.planitpoker.com/)  (free)
 
@@ -54,7 +58,7 @@ Another free tool for planning poker. Here you don't even have to create an acco
 
 A paid tool for planning poker. Haven't used is myself so I'm not sure if it's worth the money.
 
-## Brainstorming / design
+## Brainstorming and design
 
 #### [Miro](https://miro.com/) (paid)
 
@@ -101,11 +105,11 @@ Visual Studio Code is a great text editor many people use daily as their main ID
 Tuple is an app dedicated to one purpose - remote pair programming. It is supposed to be a successor of Screenhero which was bought and shut down by Slack.
 
 #### Alternative screen sharing / remote control apps
+
 [Zoom](https://zoom.us/) (fremium) - video conferencing tool, which enables screen sharing, screen annotation and control sharing.
+
 [TeamViever](https://www.teamviewer.com/) (fremium) - screen sharing / remote desktop session tool which enables you to control others' screen.
-[Slack](https://slack.com/) (fremium) - team chat tool which enables for video calls and screen sharing with remote screen control.
 
-
-## Video conferencing
+[Slack](https://slack.com/) (fremium) - team chat tool which enables for video calls and screen sharing (without remote screen control).
 
 
