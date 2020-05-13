@@ -60,13 +60,17 @@ A paid tool for planning poker. Haven't used is myself so I'm not sure if it's w
 
 ## Brainstorming and design
 
-#### [Miro](https://miro.com/) (paid)
+#### 💜 [Miro](https://miro.com/) (paid)
 
-Great tool for real time drawing and board creation. Nice to use and has ton of shapes and templates.
+Great tool for real time drawing and board creation. Nice to use and has ton of shapes and templates. Among other things it has a very useful template to do User Story Mapping.
 
-to add:
-https://coggle.it/
-https://awwapp.com/b/u1djkabne/#
+#### [Coggle](https://coggle.it/) (freemium)
+
+Pretty neat tool for drawing and designing things. You can get 3 diagrams for free.
+
+#### [AWWapp](https://awwapp.com/) (free)
+
+Simple realtime drawing tool. The great advantage of it is the fact that you can create a new board and share it with one click, without even having to login.
 
 ## Remote Pair programming
 
