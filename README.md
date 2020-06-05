@@ -64,13 +64,28 @@ A paid tool for planning poker. Haven't used is myself so I'm not sure if it's w
 
 Great tool for real time drawing and board creation. Nice to use and has ton of shapes and templates. Among other things it has a very useful template to do User Story Mapping.
 
-#### [Coggle](https://coggle.it/) (freemium)
-
-Pretty neat tool for drawing and designing things. You can get 3 diagrams for free.
-
 #### [AWWapp](https://awwapp.com/) (free)
 
-Simple realtime drawing tool. The great advantage of it is the fact that you can create a new board and share it with one click, without even having to login.
+Realtime whiteboard. Quite simple, but le's you draw arrows and simple shapes. The great advantage of it is the fact that you can create a new board and share it with one click, without even having to login.
+
+#### [Mural](https://www.mural.co/) (paid)
+
+Simlar to Miro - very flexible realtime drawing tool with lots of templates. Unfortnatelly it's not cheap.
+
+#### [WhiteboardFox](https://whiteboardfox.com/) (free)
+
+Super simple and mimimalistic realtime whiteboard. It basicaly has only a pen tool and an eraser. However its free and let's you create a shared whteboard in 2 seconds withou a need to have an account.
+
+
+#### [Coggle](https://coggle.it/) (freemium)
+
+Pretty neat tool for creating mindmaps. You can get 3 diagrams for free.
+
+#### [Ziteboard](https://app.ziteboard.com/) (freemiu)
+
+Another simple realtime drawing board. Let's you create 3 boards for free.
+
+
 
 ## Remote Pair programming
 
