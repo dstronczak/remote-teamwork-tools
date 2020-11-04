@@ -87,7 +87,13 @@ Another simple realtime drawing board. Let's you create 3 boards for free.
 
 
 
-## Remote Pair programming
+## Remote code sharing and pair programming
+
+### Offline code / workspace sharing
+
+#### [Paircast](https://paircast.io/)
+
+A tool that let's you record your screen (like in a coding tutorial) and automatically generates markdown documentation from your speech. Also automatically captures all the files you are using and includes them in the "package".
 
 ### Editor / IDE sharing
 
