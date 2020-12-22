@@ -138,3 +138,26 @@ Tuple is an app dedicated to one purpose - remote pair programming. It is suppos
 [Slack](https://slack.com/) (fremium) - team chat tool which enables for video calls and screen sharing (without remote screen control).
 
 
+## Having fun / teambuilding
+
+
+#### 💜 [skribbl.io](https://skribbl.io/) (free)
+
+An online game of pictonary, up to 12 people in a private room.
+
+
+#### [Codewords](http://codewordsgame.com/) (free)
+
+An online game of Codewords (the very same thing as the board game). 
+
+#### [Haxball](https://www.haxball.com/) (free)
+
+Simple online game of football, played in a web browser. Up to 30 people.
+
+#### [Among Us](https://play.google.com/store/apps/details?id=com.innersloth.spacemafia) (free)
+
+Simple game with lot of social interactions and mini games (available on PC, Android and iOS). Cheat, kill, vote - similar to a game of Mafia / Werewolves.  
+
+
+
+
