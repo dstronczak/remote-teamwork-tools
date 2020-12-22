@@ -8,6 +8,7 @@ A list of tools which I found useful for the purpose of cooperating with your te
 2. [Planing and estimating](#planning-and-estimating)
 3. [Brainstorming and design](#brainstorming-and-design)
 4. [Remote Pair programming](#remote-pair-programming)
+5. [Teambulding and having fun](#teambulding-and-having-fun)
 
 
 ## Retrospectives
@@ -138,8 +139,7 @@ Tuple is an app dedicated to one purpose - remote pair programming. It is suppos
 [Slack](https://slack.com/) (fremium) - team chat tool which enables for video calls and screen sharing (without remote screen control).
 
 
-## Having fun / teambuilding
-
+## Teambulding and having fun
 
 #### 💜 [skribbl.io](https://skribbl.io/) (free)
 
