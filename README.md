@@ -158,6 +158,10 @@ Simple online game of football, played in a web browser. Up to 30 people.
 
 Simple game with lot of social interactions and mini games (available on PC, Android and iOS). Cheat, kill, vote - similar to a game of Mafia / Werewolves.  
 
+#### [Warm Up Game Randomizer](https://teamfirstdevelopment.com/warm-ups/) (free) 
+
+Great source of "warm up" activities to do at the beginning of a meeting (e.g. retro). It gives you a random warm up game and it's short description.
+
 
 
 
