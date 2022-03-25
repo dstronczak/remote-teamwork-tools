@@ -24,7 +24,7 @@ Pretty simple and not very flexible retrospective board tool. The thing that's d
 
 #### [Retrium (bu u2i)](https://www.retrium.com/) (free)
 
-Simple, free and very quick to use. This tool was created by a company called U2I. You don't have to host it yourself - you even don't have to create an account. Just take it and use it.
+Simple, free and very quick to use. This tool was created by a company called U2I. You don't have to host it yourself - you even don't have to create an account. Just take it and use it!
 
 #### [IdeaBoardz](https://ideaboardz.com/) (free)
 
